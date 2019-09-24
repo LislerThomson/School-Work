@@ -1,7 +1,7 @@
 /* adc.c: A/D functions.
  * Author : Lisler Thomson Pulikkottil 8212565
  * Date   : 2019/09/20
-
+ */
 
 
 #include <stdio.h>
